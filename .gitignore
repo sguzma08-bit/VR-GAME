@@ -1,7 +1,7 @@
 # 1. Ignore everything at the absolute root of the project
 /*
 
-# 2. Open up access to the specific folders your professor wants
+# 2. Open up access to the specific folders 
 !/Assets/
 !/ProjectSettings/
 !/Packages/
