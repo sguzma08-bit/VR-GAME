@@ -1,0 +1,16 @@
+# 1. Ignore everything at the absolute root of the project
+/*
+
+# 2. Open up access to the specific folders your professor wants
+!/Assets/
+!/ProjectSettings/
+!/Packages/
+
+# 3. Explicitly allow everything inside those allowed folders
+!/Assets/**
+!/ProjectSettings/**
+!/Packages/**
+
+# 4. Make sure your Git tracking settings remain visible
+!.gitignore
+!.gitattributes
